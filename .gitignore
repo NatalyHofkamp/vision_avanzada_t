@@ -1,0 +1,19 @@
+# virtualenvs
+.venv/
+.venv-*/
+venv/
+
+# datasets
+*.pkl
+
+# checkpoints
+checkpoints/
+
+# caches
+__pycache__/
+.ipynb_checkpoints/
+
+# pytorch
+*.pt
+*.pth
+*.ckpt
