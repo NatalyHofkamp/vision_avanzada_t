@@ -1,7 +1,7 @@
-fold,n_samples,fraction_dfg_in,fraction_alphac_in,fraction_dfg_alphac_in,n_designable,median_designability_rmsd,mean_designability_rmsd
-fold_01,7,0.42857142857142855,0.14285714285714285,0.14285714285714285,0,,
-fold_02,23,0.30434782608695654,0.391304347826087,0.08695652173913043,0,,
-fold_03,160,0.31875,0.04375,0.0375,0,,
-fold_04,26,0.11538461538461539,0.11538461538461539,0.0,0,,
-fold_05,10,0.3,0.5,0.1,0,,
-fold_06,2,0.5,0.5,0.0,0,,
+fold,n_samples,fraction_generated_active,fraction_inactive_input_active,fraction_active_target_active,n_designability_ok,median_designability_rmsd
+fold_01,4,0.5,0.0,0.25,13.0,58.80489975446168
+fold_02,3,0.6666666666666666,0.0,0.3333333333333333,37.0,62.14472153066617
+fold_03,117,0.06837606837606838,0.0,0.042735042735042736,,
+fold_04,68,0.0,0.0,0.11764705882352941,,
+fold_05,3,1.0,0.0,0.0,,
+fold_06,2,0.0,0.5,0.0,,

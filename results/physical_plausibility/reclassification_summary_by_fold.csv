@@ -1,0 +1,7 @@
+fold,n_samples,fraction_generated_active,fraction_inactive_input_active,fraction_active_target_active
+fold_01,4,0.5,0.0,0.25
+fold_02,3,0.6666666666666666,0.0,0.3333333333333333
+fold_03,117,0.06837606837606838,0.0,0.042735042735042736
+fold_04,68,0.0,0.0,0.11764705882352941
+fold_05,3,1.0,0.0,0.0
+fold_06,2,0.0,0.5,0.0

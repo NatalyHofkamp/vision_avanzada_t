@@ -1,0 +1,31 @@
+{
+  "alphac_classifier": {
+    "feature": "d_ke (distancia C\u03b1 Lys17 - C\u03b1 Glu24)",
+    "coef": [
+      [
+        -1.7111808779496827
+      ]
+    ],
+    "intercept": [
+      22.28928425354362
+    ],
+    "loko_accuracy_mean": 0.9517724870948558,
+    "loko_f1_mean": 0.963828678889039,
+    "n_train": 755
+  },
+  "dfg_classifier": {
+    "feature": "d_fk, d_fe (distancias C\u03b1 Phe82 - Lys17 / Phe82 - Glu24)",
+    "coef": [
+      [
+        1.8030382257003639,
+        -1.7132476190228842
+      ]
+    ],
+    "intercept": [
+      -1.526298576632865
+    ],
+    "loko_accuracy_mean": 0.9917859463764795,
+    "loko_f1_mean": 0.9907337477656718,
+    "n_train": 744
+  }
+}
